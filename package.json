@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dannyvassallo/sernjs.git"
+    "url": "git+https://github.com/PADS-Labs/team-planner.git"
   },
-  "author": "Danny Vassallo",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dannyvassallo/sernjs/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/dannyvassallo/sernjs#readme",
+  "homepage": "",
   "dependencies": {
     "ajax-promise": "^0.8.1",
     "babel-loader": "^6.2.4",
